@@ -1,0 +1,9 @@
+
+body{
+    margin:0;
+    background: linear-gradient(to right, #0044ff, #00ff6c);
+}
+.App{
+    display: grid;
+    justify-content: center;
+}
